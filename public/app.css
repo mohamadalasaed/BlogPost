@@ -1,0 +1,12 @@
+*{
+    margin: auto;
+    max-width: 600px;
+}
+p{
+    line-height: 1.7;
+}
+article + article{
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #c5c5c5;
+}
